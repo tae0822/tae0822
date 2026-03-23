@@ -4,7 +4,7 @@
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 **Frontend**
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
@@ -21,7 +21,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 #### [Tae's Tech Blog](https://github.com/tae0822/blog)
 - Engineered a high-performance blog architecture using **Contentlayer** and **MDX**.
@@ -46,7 +46,7 @@
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 - **Blog**: [Tae's Tech Blog](https://blog-silk-six-64.vercel.app/)
 - **LinkedIn**: https://www.linkedin.com/in/tae0822
 - **Email**: jopd456@gmail.com
