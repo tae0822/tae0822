@@ -17,6 +17,8 @@
 ![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tae0822&layout=compact&theme=radical)
+
 ---
 
 ### 🚀 Featured Projects
@@ -40,9 +42,13 @@
 - Optimized **State Management** and **Filtering Logic** to ensure high-performance UI updates (60fps).
 - Implemented **Local Storage Persistence** and a **Flicker-free Dark Mode** for enhanced user experience.
 
+
+
 ---
 
 ### 📫 Let's Connect
 - **Blog**: [Tae's Tech Blog](https://blog-silk-six-64.vercel.app/)
 - **LinkedIn**: https://www.linkedin.com/in/tae0822
 - **Email**: jopd456@gmail.com
+
+
